@@ -16,7 +16,7 @@ form action="action_page.php">
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Change Password</b></label>
+    <label for="psw"><b>Put new Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
